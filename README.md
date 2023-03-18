@@ -1,2 +1,2 @@
 # UW-Checklist-Automator
-Repo for a checklist for the breadth and depth requirements of Computer Science at the University of Waterloo
+Checklist automator for the breadth and depth requirements for Computer Science at the University of Waterloo
