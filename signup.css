@@ -12,7 +12,6 @@ body {
 }
 
 a {
-  color: #92badd;
   display:inline-block;
   text-decoration: none;
   font-weight: 400;
@@ -76,7 +75,7 @@ h2.inactive {
 
 h2.active {
   color: #0d0d0d;
-  border-bottom: 2px solid #5fbae9;
+  border-bottom: 5px solid #e41740;
 }
 
 
