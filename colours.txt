@@ -1,0 +1,4 @@
+Baby red #ffa5aa
+Light red #e41740
+Normal red #b71233
+Dark red #80001f

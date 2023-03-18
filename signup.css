@@ -3,7 +3,7 @@
 /* BASIC */
 
 html {
-  background-color: #56baed;
+  background-color: #ffa5aa;
 }
 
 body {
@@ -58,6 +58,7 @@ h2 {
 
 #formFooter {
   background-color: #f6f6f6;
+  color: #e41740;
   border-top: 1px solid #dce8f1;
   padding: 25px;
   text-align: center;
@@ -83,7 +84,7 @@ h2.active {
 /* FORM TYPOGRAPHY*/
 
 input[type=button], input[type=submit], input[type=reset]  {
-  background-color: #56baed;
+  background-color: #b71233;
   border: none;
   color: white;
   padding: 15px 80px;
@@ -237,7 +238,7 @@ input[type=text]:placeholder {
   bottom: -10px;
   width: 0;
   height: 2px;
-  background-color: #56baed;
+  background-color: #e41740;
   content: "";
   transition: width 0.2s;
 }
