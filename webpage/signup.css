@@ -2,9 +2,9 @@
 
 /* BASIC */
 
-html {
+/* html {
   background-color: #ffa5aa;
-}
+} */
 
 body {
   font-family: "Poppins", sans-serif;
@@ -46,8 +46,8 @@ h2 {
   border-radius: 10px 10px 10px 10px;
   background: #fff;
   padding: 30px;
-  width: 90%;
-  max-width: 450px;
+  width: 27%;
+  /* max-width: 450px; */
   position: relative;
   padding: 0px;
   -webkit-box-shadow: 0 30px 60px 0 rgba(0,0,0,0.3);
@@ -83,7 +83,7 @@ h2.active {
 /* FORM TYPOGRAPHY*/
 
 input[type=button], input[type=submit], input[type=reset]  {
-  background-color: #b71233;
+  background-color: #80001f;
   border: none;
   color: white;
   padding: 15px 80px;
@@ -105,7 +105,7 @@ input[type=button], input[type=submit], input[type=reset]  {
 }
 
 input[type=button]:hover, input[type=submit]:hover, input[type=reset]:hover  {
-  background-color: #39ace7;
+  background-color: #e41740;
 }
 
 input[type=button]:active, input[type=submit]:active, input[type=reset]:active  {
@@ -139,7 +139,7 @@ input[type=text] {
 
 input[type=text]:focus {
   background-color: #fff;
-  border-bottom: 2px solid #5fbae9;
+  border-bottom: 2px solid #e41740;
 }
 
 input[type=text]:placeholder {
